@@ -5,8 +5,8 @@ const WHATSAPP_KSA = "966580690167"
 
 // بيانات دخول الأدمن — هذي حماية من طرف المتصفح فقط، غيّرها قبل النشر
 // ولو بتربط الموقع بسيرفر حقيقي، استبدلها بتسجيل دخول فعلي (مثلاً NextAuth أو Supabase Auth)
-const ADMIN_USERNAME = "admin"
-const ADMIN_PASSWORD = "1234"
+const ADMIN_USERNAME = "mfofo1414"
+const ADMIN_PASSWORD = "mfofo1414"
 const ADMIN_SESSION_KEY = "dawaati_admin_session"
 
 function isAdminLoggedIn(): boolean {
